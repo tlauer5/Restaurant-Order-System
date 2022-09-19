@@ -1,0 +1,175 @@
+[
+    {
+        "model": "main.table",
+        "pk": 1,
+        "fields": {
+            "tableNumber": 10,
+            "places": 2
+        }
+     },
+     {
+        "model": "main.table",
+        "pk": 2,
+        "fields": {
+            "tableNumber": 12,
+            "places": 2
+        }
+     },
+     {
+        "model": "main.table",
+        "pk": 3,
+        "fields": {
+            "tableNumber": 13,
+            "places": 4
+        }
+     },
+      {
+        "model": "main.table",
+        "pk": 4,
+        "fields": {
+            "tableNumber": 14,
+            "places": 2
+        }
+     },
+     {
+        "model": "main.table",
+        "pk": 5,
+        "fields": {
+            "tableNumber": 15,
+            "places": 4
+        }
+     },
+     {
+        "model": "main.table",
+        "pk": 6,
+        "fields": {
+            "tableNumber": 20,
+            "places": 3
+        }
+     },
+      {
+        "model": "main.table",
+        "pk": 7,
+        "fields": {
+            "tableNumber": 21,
+            "places": 4
+        }
+     },
+     {
+        "model": "main.table",
+        "pk": 8,
+        "fields": {
+            "tableNumber": 22,
+            "places": 2
+        }
+     },
+     {
+        "model": "main.table",
+        "pk": 9,
+        "fields": {
+            "tableNumber": 23,
+            "places": 8
+        }
+     }, {
+        "model": "main.table",
+        "pk": 10,
+        "fields": {
+            "tableNumber": 24,
+            "places": 4
+        }
+     },
+     {
+        "model": "main.table",
+        "pk": 11,
+        "fields": {
+            "tableNumber": 25,
+            "places": 4
+        }
+     },
+     {
+        "model": "main.table",
+        "pk": 12,
+        "fields": {
+            "tableNumber": 30,
+            "places": 6
+        }
+     },
+      {
+        "model": "main.table",
+        "pk": 13,
+        "fields": {
+            "tableNumber": 31,
+            "places": 6
+        }
+     },
+     {
+        "model": "main.table",
+        "pk": 14,
+        "fields": {
+            "tableNumber": 32,
+            "places": 2
+        }
+     },
+     {
+        "model": "main.table",
+        "pk": 15,
+        "fields": {
+            "tableNumber": 33,
+            "places": 4
+        }
+     }, {
+        "model": "main.table",
+        "pk": 16,
+        "fields": {
+            "tableNumber": 34,
+            "places": 6
+        }
+     },
+     {
+        "model": "main.table",
+        "pk": 17,
+        "fields": {
+            "tableNumber": 35,
+            "places": 4
+        }
+     },
+      {
+        "model": "main.table",
+        "pk": 18,
+        "fields": {
+            "tableNumber": 41,
+            "places": 4
+        }
+     },
+     {
+        "model": "main.table",
+        "pk": 19,
+        "fields": {
+            "tableNumber": 42,
+            "places": 2
+        }
+     },
+     {
+        "model": "main.table",
+        "pk": 20,
+        "fields": {
+            "tableNumber": 50,
+            "places": 2
+        }
+     }, {
+        "model": "main.table",
+        "pk": 21,
+        "fields": {
+            "tableNumber": 51,
+            "places": 2
+        }
+     },
+     {
+        "model": "main.table",
+        "pk": 22,
+        "fields": {
+            "tableNumber": 52,
+            "places": 2
+        }
+     }
+]
